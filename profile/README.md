@@ -48,6 +48,10 @@
 
 <img src="https://github.com/SeSACTHON-FREE-WAY/.github/assets/69714701/f9808682-abcc-4e36-83e4-4c755cc225aa" width="200px" alt="#">
 
+### System Architecture
+
+![system_architecture](https://github.com/SeSACTHON-FREE-WAY/.github/assets/69714701/a5eccc50-e9d8-4a94-a1e8-5db9fe7b6aa4)
+
 ### 🙋🏻 Members
 
 | 기획💡 | 디자인🎨 | 프론트📱 | 프론트📱 | 백엔드🛠 |
