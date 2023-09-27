@@ -4,6 +4,10 @@
 
 지하철을 이용할 때 엘리베이터가 어디 있는지, 고장나서 수리 중이지는 않은지 궁금하신가요? FREEWAY에서 편리하게 실시간 정보를 확인하세요!
 
+<img src="https://github.com/FREEWAYseoul/.github/assets/69714701/0dfec54f-81d6-4f9b-97ee-8c17e142189e" width="20px" alt="#"/> [Android Download](https://play.google.com/store/apps/details?id=com.free.freeway)
+
+<img src="https://github.com/FREEWAYseoul/.github/assets/69714701/39e1ddf2-9947-4dc2-884a-c80bdf6e4b85" width="20px" alt="#"/> iOS Comming Soon
+
 ![48](https://github.com/SeSACTHON-FREE-WAY/.github/assets/69714701/40ea43d9-a95c-4a46-b667-b4c4922a1ea7)
 
 ## 프로젝트 소개
