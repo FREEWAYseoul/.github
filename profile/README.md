@@ -8,6 +8,8 @@
 
 <img src="https://github.com/FREEWAYseoul/.github/assets/69714701/39e1ddf2-9947-4dc2-884a-c80bdf6e4b85" width="20px" alt="#"/> [iPhone Download](https://apps.apple.com/kr/app/프리웨이/id6465698142)
 
+<img src="https://github.com/FREEWAYseoul/.github/assets/77668478/d27bf638-b4d4-4839-accf-a729d0b8c9cf" width="20px" alt="#"/> [Web](https://freeway-seoul.vercel.app)
+
 ![48](https://github.com/SeSACTHON-FREE-WAY/.github/assets/69714701/40ea43d9-a95c-4a46-b667-b4c4922a1ea7)
 
 ## 프로젝트 소개
@@ -20,7 +22,7 @@
 
 #### Front-end
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="#"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="#"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="#"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="#"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="#"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" alt="#"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="#"/> <img src="https://img.shields.io/badge/react query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="#"/>
 
 #### Back-end
 
@@ -58,6 +60,6 @@
 
 ### 🙋🏻 Members
 
-| 기획💡 | 디자인🎨 | 프론트📱 | 프론트📱 | 백엔드🛠 |
-|:----:|:-----:|:-----:|:-----:|:-----:|
-| 정체랑  |  정승연  |  이현정  |  박성은  |  지찬우  |
+| 기획💡 | 디자인🎨 | 프론트📱 | 프론트📱 | 백엔드🛠 | IOS🍏 |
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 정체랑  |  정승연  |  이현정  |  박성은  |  지찬우  |  한택환  |
